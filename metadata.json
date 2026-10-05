@@ -1,0 +1,6 @@
+{
+  "name": "DMD Technical Monograph & Process Review",
+  "description": "Comprehensive engineering review and interactive process analyzer for Direct Metal Deposition (DMD) additive manufacturing, covering process physics, allowed materials, industrial applications, strengths, limitations, and future manufacturing integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
